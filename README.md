@@ -6,5 +6,3 @@ People can star, fork or clone this repo and can add any type of data structures
 Use this repo for contributing in open source.
 
 Start solving issues and raise the pull requests.
-
-![DO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OpenSourceDSA&theme=graywhite&show_icons=true)
