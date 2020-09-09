@@ -7,4 +7,4 @@ Use this repo for contributing in open source.
 
 Start solving issues and raise the pull requests.
 
-![DO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Open Source DSA&theme=graywhite&show_icons=true)
+![DO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OpenSourceDSA&theme=graywhite&show_icons=true)
