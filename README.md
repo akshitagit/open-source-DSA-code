@@ -5,7 +5,7 @@ People can star, fork or clone this repo and can add any type of data structures
 
 Use this repo for contributing in open source.
 
-### Start solving issues and raise the pull requests.
+### Start solving issues and raise the pull requests and even you can create your own issues.
 
 ### If you want to contribute to a project, the simplest way is to:
 
