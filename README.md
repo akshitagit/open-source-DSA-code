@@ -1,5 +1,5 @@
 # open-source-DSA-code
-## open source contribution during hacktoberfest for beginners.
+## open source contribution during hacktoberfest 2020 for beginners.
 
 ## CREATE YOUR OWN ISSUE OR SOLVE THE GIVEN ISSUES BY RAISING PR.
 
