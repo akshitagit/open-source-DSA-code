@@ -27,7 +27,7 @@ Use this repo for contributing in open source.
 
 If the reviewers ask for changes, repeat steps 5 and 6 to add more commits to your pull request.
 
-The implementations which are done in CPP-:
+The implementations/codes which are added/merged in CPP-:
 
 Bubble Sort
 
