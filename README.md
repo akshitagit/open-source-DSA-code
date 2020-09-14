@@ -3,7 +3,7 @@
 
 ## CREATE YOUR OWN ISSUE OR SOLVE THE GIVEN ISSUES BY RAISING PR.
 
-People can star, fork or clone this repo and can add any type of data structures or algorithm codes and can raise PR during hacktoberfest.
+People can star, fork or clone your respective language and can add any type of data structures or algorithm codes and can raise PR during hacktoberfest.
 
 Use this repo for contributing in open source.
 
@@ -26,11 +26,5 @@ Use this repo for contributing in open source.
   6) Click Create pull request to open a new pull request
 
 If the reviewers ask for changes, repeat steps 5 and 6 to add more commits to your pull request.
-
-The implementations/codes which are added/merged in CPP-:
-
-Bubble Sort
-
-Circular Linkedlist
 
 ### Happy coding!
