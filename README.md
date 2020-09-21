@@ -1,6 +1,8 @@
 # open-source-DSA-code
 ## open source contribution during hacktoberfest 2020 for beginners.
 
+## UPDATE CONTRIBUTING.MD WITH YOUR GITHUB HANDLE AND NAME.
+
 ## CREATE YOUR OWN ISSUE OR SOLVE THE GIVEN ISSUES BY RAISING PR.
 
 People can star, fork or clone your respective language repo and can add any type of data structures or algorithm codes and can raise PR during hacktoberfest.
