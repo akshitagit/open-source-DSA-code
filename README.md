@@ -3,7 +3,7 @@
 
 ## UPDATE CONTRIBUTING.MD WITH YOUR GITHUB HANDLE AND NAME.
 
-## CREATE YOUR OWN ISSUE OR SOLVE THE GIVEN ISSUES BY RAISING PR.
+## CREATE YOUR OWN ISSUE OR SOLVE THE GIVEN ISSUES BY RAISING PR IN YOUR PREFERRED REPOS.
 
 People can star, fork or clone your respective language repo and can add any type of data structures or algorithm codes and can raise PR during hacktoberfest.
 
