@@ -15,3 +15,4 @@ ADD YOUR NAME(Github handle) below-:
 - Saumya Ranjan Nayak (saumya66)
 - Hritik Jaiswal (hritik5102)
 - Mirza Sisic (Mickey0001)
+- Pranjali Bajpai (pranjalibajpai)
