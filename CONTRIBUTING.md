@@ -18,3 +18,4 @@ ADD YOUR NAME(Github handle) below-:
 - Pranjali Bajpai (pranjalibajpai)
 - Hrishikesh (pawarhrishi21)
 - Divyanshu Kumar (divyanshugit)
+- Mahima Goyal (mahimagoyalx)
