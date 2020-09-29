@@ -22,3 +22,4 @@ ADD YOUR NAME(Github handle) below-:
 - Shashwat Pandey(shashwattpandeyy)
 - Ujwal Kandi (UjwalKandi)
 - Paul Ogolla (paulzay)
+- Akash Singh (thethakursahab)
