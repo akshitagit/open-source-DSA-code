@@ -23,3 +23,4 @@ ADD YOUR NAME(Github handle) below-:
 - Ujwal Kandi (UjwalKandi)
 - Paul Ogolla (paulzay)
 - Akash Singh (thethakursahab)
+- Sukriti Sood(Sukriti-Sood)
