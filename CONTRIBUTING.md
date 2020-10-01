@@ -3,6 +3,7 @@ A invite mail will be sent to you.
 
 ADD YOUR NAME(Github handle) below-:
 
+- Harikrushn Kanani (harikanani)
 - Akshita Gupta (akshitagupta15june)
 - Jishnu Suresh (lonebots)
 - Jayant Jain (xybervenom)
