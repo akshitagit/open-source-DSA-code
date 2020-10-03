@@ -5,6 +5,7 @@ ADD YOUR NAME(Github handle) below-:
 
 - Harikrushn Kanani (harikanani)
 - Akshita Gupta (akshitagupta15june)
+- Rishikesh yadav (https://github.com/rishikesh7355)
 - Jishnu Suresh (lonebots)
 - Jayant Jain (xybervenom)
 - Jyoti Jauhari ( JyotiJauhari )
