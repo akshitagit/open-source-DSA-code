@@ -12,6 +12,7 @@ ADD YOUR NAME(Github handle) below-:
 - Khushi Saxena(khushi0302001)
 - Sameer (3l-d1abl0)
 - Shubham Nakawe (Shubhamnakawe)
+- Gaurisha R Srivastava (Gaurisha21)
 - Akshay Chaturvedi (aks1809)
 - Saumya Ranjan Nayak (saumya66)
 - Hritik Jaiswal (hritik5102)
