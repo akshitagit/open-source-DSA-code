@@ -1,7 +1,7 @@
-Fork this repo after adding name and handle and raise a Pull Request
+Fork this repo and after adding your name and handle and raise a Pull Request
 A invite mail will be sent to you.
 
-ADD YOUR NAME(Github handle) below-:
+ADD YOUR NAME(GitHub handle) below-:
 
 - Harikrushn Kanani (harikanani)
 - Akshita Gupta (akshitagupta15june)
@@ -25,3 +25,4 @@ ADD YOUR NAME(Github handle) below-:
 - Paul Ogolla (paulzay)
 - Akash Singh (thethakursahab)
 - Harshita Raj (Harshita248)
+- John Bampton (jbampton)
