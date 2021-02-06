@@ -7,7 +7,7 @@
  Solution: 1. Find left bound and right bound for each element. O(n).
            2. more space efficiency. Time: O(n), Space: O(1);
 */
-public class Solution {
+public class TrappingRainWater {
     public int trap_1(int[] A) {
         int n = A.length;
         if (n == 0) return 0;

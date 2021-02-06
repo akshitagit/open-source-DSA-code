@@ -28,7 +28,7 @@
  *     }
  * }
  */
-public class Solution {
+public class RotateList {
     public ListNode rotateRight(ListNode head, int k) {
         if (head == null) return head;
         int n = 1;

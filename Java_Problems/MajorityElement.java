@@ -10,7 +10,7 @@
  2. Runtime: O(n) — Bit manipulation: We would need 32 iterations, each calculating the number of 1's for the ith bit of all n numbers. Since a majority must exist, therefore, either count of 1's > count of 0's or vice versa (but can never be equal). The majority number’s ith bit must be the one bit that has the greater count.
  */
 
-public class Solution {
+public class MajorityElement {
     public int majorityElement_1(int[] num) {
         int n = num.length;
         if (n == 0) return 0;

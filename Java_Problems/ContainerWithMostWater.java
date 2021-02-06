@@ -8,7 +8,7 @@
 */
 
 
-public class Solution {
+public class ContainerWithMostWater {
     public int maxArea(int[] height) {
         int left = 0, right = height.length - 1;
         int res = 0;

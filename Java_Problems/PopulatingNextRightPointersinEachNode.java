@@ -37,7 +37,19 @@
  *     TreeLinkNode(int x) { val = x; }
  * }
  */
-public class Solution {
+
+ //tree link node . java
+ //public class TreeLinkNode {
+//
+//	public TreeLinkNode left;
+//	public TreeLinkNode next;
+//	public TreeLinkNode right;
+//
+//	public TreeLinkNode(int i) {
+//	}
+//
+//}
+public class PopulatingNextRightPointersinEachNode {
     public void connect(TreeLinkNode root) {
         if (root == null) return;
         TreeLinkNode dummy = new TreeLinkNode(-1);
@@ -46,14 +58,14 @@ public class Solution {
         while (cur != null) {
             if (cur.left != null) {
                 pre.next = cur.left;
-                pre = pre.next;
+                pre = (TreeLinkNode) pre.next;
             }
             if (cur.right != null) {
                 pre.next = cur.right;
-                pre = pre.next;
+                pre = (TreeLinkNode) pre.next;
             }
-            cur = cur.next;
+            cur = (TreeLinkNode) cur.next;
         }
-        connect(dummy.next);
+        connect((TreeLinkNode) dummy.next);
     }
 }

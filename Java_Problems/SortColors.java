@@ -15,7 +15,7 @@
              zero        i     two
               ->        ->     <-  
  */
-public class Solution {
+public class SortColors {
     public void sortColors(int[] A) {
         int n = A.length;
         if (n <= 1) return;

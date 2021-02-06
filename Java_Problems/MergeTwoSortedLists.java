@@ -16,7 +16,8 @@
  *     }
  * }
  */
-public class Solution {
+//uses ListNode.Java 
+public class MergeTwoSortedLists {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode head = new ListNode(0);
         ListNode cur = head;

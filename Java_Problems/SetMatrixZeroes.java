@@ -8,7 +8,7 @@
 
  Solution: Use first row and column as auxiliary spaces instead of newly allocating ones.
 */
-public class Solution {
+public class SetMatrixZeroes {
     public void setZeroes(int[][] matrix) {
         int m = matrix.length;
         if(m <= 0) return;

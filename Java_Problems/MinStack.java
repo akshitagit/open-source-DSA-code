@@ -5,6 +5,7 @@
     top() -- Get the top element.
     getMin() -- Retrieve the minimum element in the stack.
 */
+import java.util.Stack;
 
 class MinStack {
     private Stack<Integer> stack = new Stack<>();

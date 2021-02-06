@@ -17,7 +17,13 @@
 
  Solution: BFS.
 */
- public class Solution {
+
+import java.util.HashSet;
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.Set;
+
+public class WordLadder {
     public int ladderLength(String start, String end, Set<String> dict) {
         Queue<String> cur = new LinkedList<String>();
         if(start.compareTo(end) == 0) return 0;

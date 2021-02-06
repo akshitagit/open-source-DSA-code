@@ -15,7 +15,7 @@
            2. Use array as hashtable.
  */
 
-public class Solution {
+public class MinimumWindowSubstring {
     public String minWindow(String S, String T) {
         int N = S.length(), M = T.length();
         if (N < M) return new String("");

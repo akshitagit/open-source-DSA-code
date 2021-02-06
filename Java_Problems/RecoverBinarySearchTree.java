@@ -3,7 +3,6 @@
  Recover the tree without changing its structure.
  Note:
  A solution using O(n) space is pretty straight forward. Could you devise a constant space solution?
-
  Solution: 1. recursive solution. O(n) space. get inorder list first.
            2. recursive solution. O(n) space. with only auxiliary two pointers.
            3. Use a stack. Iteration.
@@ -19,7 +18,9 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+import java.util.Stack;
+
+public class RecoverBinarySearchTree {
     public void recoverTree_1(TreeNode root) {
         if (root == null) return;
         ArrayList<TreeNode> res = new ArrayList<TreeNode>();
