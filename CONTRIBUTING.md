@@ -28,3 +28,4 @@ ADD YOUR NAME(Github handle) below-:
 - Alan Syr  (Alias-Alan)
 - Thalhatou Yahya(thalhatou)
 - Kushal Das(Kushal997-das)
+- Prathima Kadari(prathimacode-hub)
