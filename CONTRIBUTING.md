@@ -31,3 +31,4 @@ ADD YOUR NAME(Github handle) below-:
 - Kushal Das(Kushal997-das)
 - Prathima Kadari(prathimacode-hub)
 - Vikas (vikas780)
+- Satyam Tripathi(Iamtripathisatyam)
