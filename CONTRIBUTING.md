@@ -33,5 +33,6 @@ ADD YOUR NAME(Github handle) below-:
 - Vikas (vikas780)
 - Satyam Tripathi(Iamtripathisatyam)
 - A.H. (ahcodes)
+- Priyansh Singh ([ps-19](https://github.com/blackphoenix42))
 - AvidCoder101 (Avid Coder)
 - CodingSpecies (Coding Species)
