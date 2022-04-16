@@ -45,3 +45,4 @@ ADD YOUR NAME(Github handle) below-:
 - [Susmita Dey](https://github.com/Susmita-Dey) (Susmita-Dey)
 - [Ken Horlador](https://github.com/kenhorlador)
 - Brandon Padilla (jairopadilla19)
+- [Adwaita Raj Modak](https://github.com/RajAdwaita)
