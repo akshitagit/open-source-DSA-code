@@ -52,3 +52,4 @@ ADD YOUR NAME(Github handle) below-:
 - [David Gavilanez](https://github.com/HarmonySkull) (HarmonySkull)
 - [cixtor](https://github.com/cixtor)
 - [Narayan](https://github.com/narayan954)
+- TitanRGB (TitanRGB)
