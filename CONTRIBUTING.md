@@ -54,4 +54,4 @@ ADD YOUR NAME(Github handle) below-:
 - [Narayan](https://github.com/narayan954)
 - TitanRGB (TitanRGB)
 - [Mohammad Sami](https://github.com/samishaikh6810) (samishaikh6810)
-[varun jain](https://github.com/varunnitian)(varunnitian)
+- [varun jain](https://github.com/varunnitian) (varunnitian)
