@@ -55,4 +55,6 @@ ADD YOUR NAME(Github handle) below-:
 - TitanRGB (TitanRGB)
 - [Mohammad Sami](https://github.com/samishaikh6810) (samishaikh6810)
 - Anukiran Ghosh (https://github.com/akghosh111)  (akghosh111)
+- [Siddak Bagga](https://github.com/siddakbagga13)
+
 
