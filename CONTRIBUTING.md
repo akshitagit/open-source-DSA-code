@@ -20,6 +20,7 @@ ADD YOUR NAME(Github handle) below-:
 - Pranjali Bajpai (pranjalibajpai)
 - Hrishikesh (pawarhrishi21)
 - Divyanshu Kumar (divyanshugit)
+- [Arth Gupta ](https://github.com/guptaarth87)
 - Mahima Goyal (mahimagoyalx)
 - Shashwat Pandey(shashwattpandeyy)
 - Ujwal Kandi (UjwalKandi)
