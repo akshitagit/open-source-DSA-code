@@ -1,9 +1,22 @@
 # open-source-DSA-code
 ## open source contribution during hacktoberfest 2020 for beginners.
 
-## UPDATE CONTRIBUTING.MD WITH YOUR GITHUB HANDLE AND NAME.
+## UPDATE CONTRIBUTING.MD WITH YOUR GITHUB HANDLE AND NAME
 
+## WHY WE SHOULD CONTRIBUTE IN OPEN SOURCE 
+Contributing to an open source project helps you gain a much deeper knowledge about the software. Your first open source contribution may not be as easy as you might expect upfront, as it may involve one or more of the following steps:
+1.determining which part of your solution is worth contributing.
+2.studying the contribution guidelines of the target project.
+3.obtaining and building the project.
+4.extracting the relevant code fragments.
+5.adapting the code and integrating the desired changes.
+6.providing the required level of automated test cases and documentation.
+7.filing an issue.
+8.submitting the change.
+
+ 
 ## CREATE YOUR OWN ISSUE OR SOLVE THE GIVEN ISSUES BY RAISING PR IN YOUR PREFERRED REPOS.
+
 
 People can star, fork or clone your respective language repo and can add any type of data structures or algorithm codes and can raise PR during hacktoberfest.
 
