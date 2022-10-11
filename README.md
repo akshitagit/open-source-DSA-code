@@ -1,4 +1,17 @@
 # open-source-DSA-code
+Hey 👋 everyone , hacktoberfest is back with biggest beginners friendly opensource event. Event will start from 1st of October and will remain upto 31st October 2022.
+What you need to do in this event?
+You need to generate 4 valid pull request and want to contribute in opensource
+
+let's discuss how you can contribute in hacktoberfest 2021 🙌
+Rules :
+1) Fork this repository first
+
+2) Star this repository⭐
+
+3) Add code according to your need with proper extension eg bubble_sort.cpp linear_search.py
+
+
 ## open source contribution during hacktoberfest 2020 for beginners.
 
 ## UPDATE CONTRIBUTING.MD WITH YOUR GITHUB HANDLE AND NAME
