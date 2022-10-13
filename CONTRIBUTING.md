@@ -7,6 +7,7 @@ ADD YOUR NAME(Github handle) below-:
 - Akshita Gupta (akshitagupta15june)
 - [Ayush Yadav](https://github.com/blackphoenix42) (blackphoenix42)
 - Jishnu Suresh (lonebots)
+- Manvi Diwakar(manvi2912)
 - Jayant Jain (xybervenom)
 - Jyoti Jauhari ( JyotiJauhari )
 - Vipul Sinha (vsasvipul0605)
