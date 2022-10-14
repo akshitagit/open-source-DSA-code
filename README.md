@@ -8,11 +8,13 @@ Contributing to an open source project helps you gain a much deeper knowledge ab
 1.determining which part of your solution is worth contributing.
 2.studying the contribution guidelines of the target project.
 3.obtaining and building the project.
-4.extracting the relevant code fragments.
-5.adapting the code and integrating the desired changes.
-6.providing the required level of automated test cases and documentation.
-7.filing an issue.
-8.submitting the change.
+4.in a virtual touch with contributers or developers.
+5.extracting the relevant code fragments.
+6.adapting the code and integrating the desired changes.
+7.providing the required level of automated test cases and documentation.
+8.filing an issue.
+9.submitting the change.
+
 
  
 ## CREATE YOUR OWN ISSUE OR SOLVE THE GIVEN ISSUES BY RAISING PR IN YOUR PREFERRED REPOS.
