@@ -36,6 +36,7 @@ ADD YOUR NAME(Github handle) below-:
 - A.H. (ahcodes)
 - Priyansh Singh ([ps-19](https://github.com/blackphoenix42))
 - AvidCoder101 (Avid Coder)
+- [Navansh Khandelwal](https://github.com/Navansh)
 - CodingSpecies (Coding Species)
 - Aditya Harsh (adityaharsh2001)
 - Molese (m0lese)
