@@ -34,12 +34,14 @@ Use this repo for contributing in open source.
    
   3) Make your changes
    
-  4) Push it back to your repo
-   
-  5) Click the Compare & pull request button
-   
-  6) Click Create pull request to open a new pull request
+  4) Commit the changes
 
-If the reviewers ask for changes, repeat steps 5 and 6 to add more commits to your pull request.
+  5) Push it back to your repo
+   
+  6) Click the Compare & pull request button
+   
+  7) Click Create pull request to open a new pull request
+
+If the reviewers ask for changes, repeat steps 6 and 7 to add more commits to your pull request.
 
 ### Happy coding!
