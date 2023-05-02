@@ -1,5 +1,5 @@
 # open-source-DSA-code
-## open source contribution during hacktoberfest 2020 for beginners.
+
 
 ## UPDATE CONTRIBUTING.MD WITH YOUR GITHUB HANDLE AND NAME
 
