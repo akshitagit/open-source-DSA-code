@@ -65,3 +65,5 @@ ADD YOUR NAME(Github handle) below-:
 
 - [Dibyarup Nath](https://github.com/dibyarupnath)  (dibyarupnath)
 
+- [Tamar Amar](https://github.com/Tamar-Amar) (Tamar-Amar)
+
